@@ -1,0 +1,12 @@
+
+public class Earth {
+	
+	public static void main(String args[]) {
+		Human human1 = new Human("Tom", 5, 72, "Brown";)
+		
+		
+		
+		
+	}
+
+}
